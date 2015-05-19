@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Interval Timer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="set_count">Set</string>
+    <string name="minute">Min</string>
+    <string name="second">Sec</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
